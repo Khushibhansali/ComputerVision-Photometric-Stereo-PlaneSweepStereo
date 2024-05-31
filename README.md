@@ -1,4 +1,4 @@
-# ComputerVision-Photometric-Stereo-PlaneSweepStereo
+# Photometric Stereo & Plane Sweep Stereo
 
 The primary objective of this project was to recover the surface geometry and material properties from photographs. In the context of photometric stereo, our efforts were directed towards stacking multiple images captured from a consistent viewpoint but illuminated by different known light sources. This technique allowed us to extract the albedo and surface normals of the object, providing detailed information about its texture and shape.
 
